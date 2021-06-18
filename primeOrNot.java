@@ -21,8 +21,8 @@ public class primeOrNot {
 		}
 		
 		if(isPrime)
-		   System.out.println(n + " is PRIME");
+		   System.out.println(n + " is PRIME.");
 		else
-		   System.out.println(n + " is NOT A PRIME");
+		   System.out.println(n + " is NOT A PRIME.");
 	   }
 	}
